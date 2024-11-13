@@ -1,0 +1,23 @@
+{
+  "name": "Induction Form",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Introduction",
+      "content": "Welcome to the induction form for Raxalle. Please fill out the following information so that we can get to know you better."
+    },
+    {
+      "type": "staff",
+      "staff": [
+        {
+          "name": "John Doe",
+          "email": "john.doe@raxalle.com"
+        },
+        {
+          "name": "Jane Doe",
+          "email": "jane.doe@raxalle.com"
+        }
+      ]
+    }
+  ]
+}
